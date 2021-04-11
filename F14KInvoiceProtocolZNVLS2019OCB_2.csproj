@@ -71,6 +71,7 @@
     <None Include="DataSet2.xss">
       <DependentUpon>DataSet2.xsd</DependentUpon>
     </None>
+    <None Include="Readme.MD" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
