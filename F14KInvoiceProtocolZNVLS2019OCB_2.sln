@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F14KInvoiceProtocolZNVLS2019OCB_2", "F14KInvoiceProtocolZNVLS2019OCB_2.csproj", "{B57C0B1A-F61B-4F7A-A7F5-8AF6FCD9EA8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57C0B1A-F61B-4F7A-A7F5-8AF6FCD9EA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57C0B1A-F61B-4F7A-A7F5-8AF6FCD9EA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57C0B1A-F61B-4F7A-A7F5-8AF6FCD9EA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57C0B1A-F61B-4F7A-A7F5-8AF6FCD9EA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+<xml>
+  <Certificate>
+    <ModuleName>F14KInvoiceProtocolZNVLS2019OCB_2.dll</ModuleName>
+    <ModuleHash>n5JeIja3FKLhuPx4KyXh6w==</ModuleHash>
+    <CertificateDate>2020-02-12T10:36:34.547</CertificateDate>
+    <Generator>SRV-01</Generator>
+    <Signature>PujHX2MDiFSKfasySO4lDZ8++NgGmKNw3dRAmyV5aYHLzyDuZeN7rUPHAsR1B0OfcpFoRNHpafoX1Dv/0q/lrvq66cCHqRiABtG3K4vz7AGTr0BMX0xAi9CMKffjHEPqy3nwKCfUY1nRFuwCjCTkW7XienaUGmkZSG+f0FngVc4=</Signature>
+  </Certificate>
+</xml>
